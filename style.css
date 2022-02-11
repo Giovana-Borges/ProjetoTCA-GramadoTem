@@ -1,0 +1,107 @@
+.card-largura {
+   max-width:18rem;
+}
+
+.d-flex{
+   padding: 1%;
+   width:500px;
+  
+}
+.btn {
+    width: 100px;
+      
+}
+
+.imagem-carrossel-um {
+    object-fit:cover; 
+    height: 400px;
+}
+
+.imagem-carrossel-dois {
+    object-fit: cover;
+    height: 400px;
+}
+
+.fonte-titulo {
+    font-family: 'Dongle', sans-serif;
+    font-size: 35px;
+}
+
+.subtitulo {
+    font-size: 18px;
+}
+
+.cor-de-fundo {
+ background-color: #67A3B7;
+}
+
+.cor-especial {
+    color: rgb(17, 107, 182)!important;
+}
+
+.botao-cor-especial {
+    background-color: #67A3B7;
+    color: white;
+}
+
+.borda-cor-especial {
+  border-color:rgb(0, 0, 0);
+
+}
+
+.borda-botao-cor-especial {
+    border-color: rgb(17, 107, 182);
+}
+
+.card-posicao-imagem {
+    object-fit: cover;
+    height: 200px;
+}
+
+
+.imagem-logo-rodape {
+    height: 60px;
+    display: block;
+   margin: auto;  
+   
+}
+
+
+.imagem-face-rodape {
+    height: 29px;
+    margin-bottom:70px;
+   
+} 
+
+.imagem-insta-rodape {
+    height: 38px;
+    margin-bottom:70px;
+}
+
+.rodape li {
+ display: inline-block;
+ 
+}
+
+.p-rodape {
+    font-weight: bold;
+   margin-top: 5%;
+   margin-right:10% ;
+   font-size: 70%;
+}
+
+.copyright {
+    color: #000000;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 14px; 
+    text-align: center;
+    margin-bottom:6%;
+}
+.cards {
+padding-top: 150px;
+}
+
+
+
+
+

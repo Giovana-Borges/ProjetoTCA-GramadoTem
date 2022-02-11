@@ -1,0 +1,41 @@
+.card{
+    height: 600px;
+    width: 500px;
+
+}
+
+.titulo_card {
+    font-size: 18px;
+    font-style: italic ;
+    text-decoration: underline;
+}
+
+.botao {
+   height:30px;
+   width:90px ;
+}
+
+.modal-title {
+    color: #116bb6;
+    font-size:30px;
+    font-family: 'Righteous', cursive;
+}
+
+.paragrafo {
+    font-size: 17px;
+    font-weight: bold;
+    color: #116bb6;
+}
+
+.descricao{
+    margin-top: 5%;
+    font-weight: bold;
+    font-size: 18px;
+
+
+}
+
+.modal-carrosel{
+    height: 200px;
+    object-fit: cover;
+}

@@ -1,0 +1,6 @@
+PARAGRAFO DO RODAPE:
+
+  <p class="text-light m-0 text-center"> <a class="cor-especial" href="mailto:eduardazingano@gmail.com">eduardazingano@gmail.com</a></p>
+
+
+https://linkme.bio/gramadotem
